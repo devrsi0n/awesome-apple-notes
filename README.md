@@ -10,6 +10,8 @@ Your contributions are always welcome!
 
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license
 
+`iOS` means it only works in iOS
+
 ## Web hosting
 
 - [Quotion](https://quotion.co/) - Apple Notes to blog sites in minutes, with fast page loads, SEO ready, built-in analytics, and looks great. ![Freeware][Freeware Icon]
@@ -24,6 +26,10 @@ Your contributions are always welcome!
 ## AI
 
 - [NotesOllama](https://smallest.app/notesollama/) - Use Ollama to talk to local LLMs in Apple Notes. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/andersrex/notesollama)
+
+## Shortcuts
+
+- [Safari Web Clipper](https://www.icloud.com/shortcuts/2630fd01fc1346839ddb8b5ca5df2d24) - Converting web page to apple notes `iOS` ![Freeware][Freeware Icon]
 
 ## Shiny features
 
