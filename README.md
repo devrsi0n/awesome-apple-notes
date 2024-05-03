@@ -1,6 +1,6 @@
 # awesome-apple-notes
 
-A curated list of awesome websites, applications, tools and shiny things for Apple Notes.
+A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
 
 Your contributions are always welcome!
 
@@ -14,6 +14,10 @@ Your contributions are always welcome!
 - [ProNotes](https://www.pronotes.app) - ProNotes is an Apple Notes extension that makes your favourite note-taking app even more enjoyable to use.
 - [NotesCmdr](https://smallest.app/notescmdr/) - Supercharge Apple Notes with Slash Commands, Templates and Markdown
 - [Raycast/apple-notes](https://www.raycast.com/raycast/apple-notes) - Search for and create Apple Notes directly within Raycast.
+
+## AI
+
+- [NotesOllama](https://smallest.app/notesollama/) - Use Ollama to talk to local LLMs in Apple Notes.
 
 ## Shiny features
 
