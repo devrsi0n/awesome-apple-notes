@@ -29,6 +29,8 @@ Your contributions are always welcome!
 
 ## Shortcuts
 
+- [Clip Webpage](https://www.icloud.com/shortcuts/2da7ad7272584e3d8ee26a9f5a47b5a7) `iOS` ![Freeware][Freeware Icon]
+
 - [Safari Web Clipper](https://www.icloud.com/shortcuts/2630fd01fc1346839ddb8b5ca5df2d24) - Converting web page to apple notes `iOS` ![Freeware][Freeware Icon]
 
 ## Shiny features
