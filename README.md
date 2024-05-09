@@ -11,6 +11,7 @@ Your contributions are always welcome!
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license
 
 `iOS` means it only works in iOS
+
 `macOS` means it only works in macOS
 
 ## Web hosting
@@ -20,14 +21,14 @@ Your contributions are always welcome!
 
 ## Extension
 
-- [ProNotes](https://www.pronotes.app) - ProNotes is an Apple Notes extension that makes your favourite note-taking app even more enjoyable to use. ![Freeware][Freeware Icon]
-- [NotesCmdr](https://smallest.app/notescmdr/) - Supercharge Apple Notes with Slash Commands, Templates and Markdown.
-- [Raycast/apple-notes](https://www.raycast.com/raycast/apple-notes) - Search for and create Apple Notes directly within Raycast. ![Freeware][Freeware Icon]
+- [ProNotes](https://www.pronotes.app) - ProNotes is an Apple Notes extension that makes your favourite note-taking app even more enjoyable to use. ![Freeware][Freeware Icon] `macOS`
+- [NotesCmdr](https://smallest.app/notescmdr/) - Supercharge Apple Notes with Slash Commands, Templates and Markdown. `macOS`
+- [Raycast/apple-notes](https://www.raycast.com/raycast/apple-notes) - Search for and create Apple Notes directly within Raycast. `macOS` ![Freeware][Freeware Icon]
 - [alto.computer](https://apps.apple.com/us/app/alto-computer/id6480425094?mt=12) - Quickly copy links to an individual apple note or an apple email. `macOS` ![Freeware][Freeware Icon]
 
 ## AI
 
-- [NotesOllama](https://smallest.app/notesollama/) - Use Ollama to talk to local LLMs in Apple Notes. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/andersrex/notesollama)
+- [NotesOllama](https://smallest.app/notesollama/) - Use Ollama to talk to local LLMs in Apple Notes. `macOS` ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/andersrex/notesollama)
 
 ## Shortcuts
 
